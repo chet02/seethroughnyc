@@ -40,7 +40,7 @@ st.markdown("""
 
 with header:
     #st.image(image)
-    st.markdown("<h1 style='text-align: center; color: #070729;'>SEETHROUGHNYC</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: white;'>SEETHROUGHNYC</h1>", unsafe_allow_html=True)
      
 with prediction:
 
