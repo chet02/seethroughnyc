@@ -5,6 +5,8 @@ import plotly.express as px
 import plotly.graph_objects as go
 from PIL import Image
 import pickle
+import sklearn
+
 
 path_to_model = 'Model/model.pkl'
 
